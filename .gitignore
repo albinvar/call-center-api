@@ -6,3 +6,5 @@ db.sqlite3
 *.pyc
 
 faiss_knowledge_base/
+
+config.py
